@@ -378,8 +378,131 @@ For any questions, feel free to contact me 📮.
  - **Causal Discovery with Reinforcement Learning.** [[pdf](https://openreview.net/forum?id=S1g2skStPB)]
    - Shengyu Zhu, Ignavier Ng, Zhitang Chen. *ICLR 2020*.
 
-
 ## International Conference on Machine Learning
+
+ - **An Optimistic Perspective on Offline Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/agarwal20c.html)]
+   - Rishabh Agarwal, Dale Schuurmans, Mohammad Norouzi. *ICML 2020*.
+ - **Discount Factor as a Regularizer in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/amit20a.html)]
+   - Ron Amit, Ron Meir, Kamil Ciosek. *ICML 2020*.
+ - **Model-Based Reinforcement Learning with Value-Targeted Regression.** [[pdf](http://proceedings.mlr.press/v119/ayoub20a.html)]
+   - Alex Ayoub, Zeyu Jia, Csaba Szepesvári, Mengdi Wang, Lin Yang. *ICML 2020*.
+ - **Provable Self-Play Algorithms for Competitive Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/bai20a.html)]
+   - Yu Bai, Chi Jin. *ICML 2020*.
+ - **Inductive-bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters.** [[pdf](http://proceedings.mlr.press/v119/banerjee20a.html)]
+   - Subho S. Banerjee, Saurabh Jha, Zbigniew Kalbarczyk, Ravishankar K. Iyer. *ICML 2020*.
+ - **Tightening Exploration in Upper Confidence Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/bourel20a.html)]
+   - Hippolyte Bourel, Odalric Maillard, Mohammad Sadegh Talebi. *ICML 2020*.
+ - **Description Based Text Classification with Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/chai20a.html)]
+   - Duo Chai, Wei Wu, Qinghong Han, Fei Wu, Jiwei Li. *ICML 2020*.
+ - **Decentralized Reinforcement Learning: Global Decision-Making via Local Economic Transactions.** [[pdf](http://proceedings.mlr.press/v119/chang20b.html)]
+   - Michael Chang, Sidhant Kaushik, S. Matthew Weinberg, Tom Griffiths, Sergey Levine. *ICML 2020*.
+ - **Reinforcement Learning for Non-Stationary Markov Decision Processes: The Blessing of (More) Optimism.** [[pdf](http://proceedings.mlr.press/v119/cheung20a.html)]
+   - Wang Chi Cheung, David Simchi-Levi, Ruihao Zhu. *ICML 2020*.
+ - **Leveraging Procedural Generation to Benchmark Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/cobbe20a.html)]
+   - Karl Cobbe, Christopher Hesse, Jacob Hilton, John Schulman. *ICML 2020*.
+ - **On the Expressivity of Neural Networks for Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/dong20d.html)]
+   - Kefan Dong, Yuping Luo, Tianhe Yu, Chelsea Finn, Tengyu Ma. *ICML 2020*.
+ - **Student-Teacher Curriculum Learning via Reinforcement Learning: Predicting Hospital Inpatient Admission Location.** [[pdf](http://proceedings.mlr.press/v119/el-bouri20a.html)]
+   - Rasheed el-Bouri, David W. Eyre, Peter J. Watkinson, Tingting Zhu, David A. Clifton. *ICML 2020*.
+ - **Deep PQR: Solving Inverse Reinforcement Learning using Anchor Actions.** [[pdf](http://proceedings.mlr.press/v119/geng20a.html)]
+   - Sinong Geng, Houssam Nassif, Carlos A. Manzanares, A. Max Reppen, Ronnie Sircar. *ICML 2020*.
+ - **Representations for Stable Off-Policy Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/ghosh20b.html)]
+   - Dibya Ghosh, Marc G. Bellemare. *ICML 2020*.
+ - **Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions.** [[pdf](http://proceedings.mlr.press/v119/gottesman20a.html)]
+   - Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo A. Celi, Emma Brunskill, Finale Doshi-Velez. *ICML 2020*.
+ - **Learning to Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/gottipati20a.html)]
+   - Sai Krishna Gottipati, Boris Sattarov, Sufeng Niu, Yashaswi Pathak, Haoran Wei, Shengchao Liu, Simon Blackburn, Karam M. J. Thomas, Connor W. Coley, Jian Tang, Sarath Chandar, Yoshua Bengio. *ICML 2020*.
+ - **Bootstrap Latent-Predictive Representations for Multitask Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/guo20g.html)]
+   - Zhaohan Daniel Guo, Bernardo Ávila Pires, Bilal Piot, Jean-Bastien Grill, Florent Altché, Rémi Munos, Mohammad Gheshlaghi Azar. *ICML 2020*.
+ - **A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits.** [[pdf](http://proceedings.mlr.press/v119/hasani20a.html)]
+   - Ramin M. Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, Radu Grosu. *ICML 2020*.
+ - **Generalization to New Actions in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/jain20b.html)]
+   - Ayush Jain, Andrew Szot, Joseph J. Lim. *ICML 2020*.
+ - **Reward-Free Exploration for Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/jin20d.html)]
+   - Chi Jin, Akshay Krishnamurthy, Max Simchowitz, Tiancheng Yu. *ICML 2020*.
+ - **Evaluating the Performance of Reinforcement Learning Algorithms.** [[pdf](http://proceedings.mlr.press/v119/jordan20a.html)]
+   - Scott M. Jordan, Yash Chandak, Daniel Cohen, Mengxue Zhang, Philip S. Thomas. *ICML 2020*.
+ - **Sub-Goal Trees a Framework for Goal-Based Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/jurgenson20a.html)]
+   - Tom Jurgenson, Or Avner, Edward Groshev, Aviv Tamar. *ICML 2020*.
+ - **Double Reinforcement Learning for Efficient and Robust Off-Policy Evaluation.** [[pdf](http://proceedings.mlr.press/v119/kallus20b.html)]
+   - Nathan Kallus, Masatoshi Uehara. *ICML 2020*.
+ - **What can I do here? A Theory of Affordances in Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/khetarpal20a.html)]
+   - Khimya Khetarpal, Zafarali Ahmed, Gheorghe Comanici, David Abel, Doina Precup. *ICML 2020*.
+ - **CURL: Contrastive Unsupervised Representations for Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/laskin20a.html)]
+   - Michael Laskin, Aravind Srinivas, Pieter Abbeel. *ICML 2020*.
+ - **Batch Reinforcement Learning with Hyperparameter Gradients.** [[pdf](http://proceedings.mlr.press/v119/lee20d.html)]
+   - Byung-Jun Lee, Jongmin Lee, Peter Vrancx, Dongho Kim, Kee-Eung Kim. *ICML 2020*.
+ - **Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/lee20g.html)]
+   - Kimin Lee, Younggyo Seo, Seunghyun Lee, Honglak Lee, Jinwoo Shin. *ICML 2020*.
+ - **Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/liang20c.html)]
+   - Tung-Che Liang, Zhanwei Zhong, Yaas Bigdeli, Tsung-Yi Ho, Krishnendu Chakrabarty, Richard B. Fair. *ICML 2020*.
+ - **Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination.** [[pdf](http://proceedings.mlr.press/v119/majumdar20a.html)]
+   - Somdeb Majumdar, Shauharda Khadka, Santiago Miret, Stephen McAleer, Kagan Tumer. *ICML 2020*.
+ - **Stochastically Dominant Distributional Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/martin20a.html)]
+   - John D. Martin, Michal Lyskawinski, Xiaohu Li, Brendan J. Englot. *ICML 2020*.
+ - **Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/metelli20a.html)]
+   - Alberto Maria Metelli, Flavio Mazzolini, Lorenzo Bisi, Luca Sabbioni, Marcello Restelli. *ICML 2020*.
+ - **Kinematic State Abstraction and Provably Efficient Rich-Observation Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/misra20a.html)]
+   - Dipendra Misra, Mikael Henaff, Akshay Krishnamurthy, John Langford. *ICML 2020*.
+ - **Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?** [[pdf](http://proceedings.mlr.press/v119/ota20a.html)]
+   - Kei Ota, Tomoaki Oiki, Devesh K. Jha, Toshisada Mariyama, Daniel Nikovski. *ICML 2020*.
+ - **Stabilizing Transformers for Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/parisotto20a.html)]
+   - Emilio Parisotto, H. Francis Song, Jack W. Rae, Razvan Pascanu, Çaglar Gülçehre, Siddhant M. Jayakumar, Max Jaderberg, Raphaël Lopez Kaufman, Aidan Clark, Seb Noury, Matthew M. Botvinick, Nicolas Heess, Raia Hadsell. *ICML 2020*.
+ - **Sample Factory: Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/petrenko20a.html)]
+   - Aleksei Petrenko, Zhehui Huang, Tushar Kumar, Gaurav S. Sukhatme, Vladlen Koltun. *ICML 2020*.
+ - **Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/pitis20a.html)]
+   - Silviu Pitis, Harris Chan, Stephen Zhao, Bradly C. Stadie, Jimmy Ba. *ICML 2020*.
+ - **Skew-Fit: State-Covering Self-Supervised Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/pong20a.html)]
+   - Vitchyr Pong, Murtaza Dalal, Steven Lin, Ashvin Nair, Shikhar Bahl, Sergey Levine. *ICML 2020*.
+ - **A Game Theoretic Framework for Model Based Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/rajeswaran20a.html)]
+   - Aravind Rajeswaran, Igor Mordatch, Vikash Kumar. *ICML 2020*.
+ - **Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/rakhsha20a.html)]
+   - Amin Rakhsha, Goran Radanovic, Rati Devidze, Xiaojin Zhu, Adish Singla. *ICML 2020*.
+ - **Deep Reinforcement Learning with Robust and Smooth Policy.** [[pdf](http://proceedings.mlr.press/v119/shen20b.html)]
+   - Qianli Shen, Yan Li, Haoming Jiang, Zhaoran Wang, Tuo Zhao. *ICML 2020*.
+ - **Learning Fair Policies in Multi-Objective (Deep) Reinforcement Learning with Average and Discounted Rewards.** [[pdf](http://proceedings.mlr.press/v119/siddique20a.html)]
+   - Umer Siddique, Paul Weng, Matthieu Zimmer. *ICML 2020*.
+ - **Reinforcement Learning for Molecular Design Guided by Quantum Mechanics.** [[pdf](http://proceedings.mlr.press/v119/simm20b.html)]
+   - Gregor N. C. Simm, Robert Pinsler, José Miguel Hernández-Lobato. *ICML 2020*.
+ - **Responsive Safety in Reinforcement Learning by PID Lagrangian Methods.** [[pdf](http://proceedings.mlr.press/v119/stooke20a.html)]
+   - Adam Stooke, Joshua Achiam, Pieter Abbeel. *ICML 2020*.
+ - **Reinforcement Learning for Integer Programming: Learning to Cut.** [[pdf](http://proceedings.mlr.press/v119/tang20a.html)]
+   - Yunhao Tang, Shipra Agrawal, Yuri Faenza. *ICML 2020*.
+ - **Clinician-in-the-Loop Decision Making: Reinforcement Learning with Near-Optimal Set-Valued Policies.** [[pdf](http://proceedings.mlr.press/v119/tang20c.html)]
+   - Shengpu Tang, Aditya Modi, Michael W. Sjoding, Jenna Wiens. *ICML 2020*.
+ - **No-Regret Exploration in Goal-Oriented Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/tarbouriech20a.html)]
+   - Jean Tarbouriech, Evrard Garcelon, Michal Valko, Matteo Pirotta, Alessandro Lazaric. *ICML 2020*.
+ - **Sequential Transfer in Reinforcement Learning with a Generative Model.** [[pdf](http://proceedings.mlr.press/v119/tirinzoni20a.html)]
+   - Andrea Tirinzoni, Riccardo Poiani, Marcello Restelli. *ICML 2020*.
+ - **Multi-step Greedy Reinforcement Learning Algorithms.** [[pdf](http://proceedings.mlr.press/v119/tomar20a.html)]
+   - Manan Tomar, Yonathan Efroni, Mohammad Ghavamzadeh. *ICML 2020*.
+ - **Private Reinforcement Learning with PAC and Regret Guarantees.** [[pdf](http://proceedings.mlr.press/v119/vietri20a.html)]
+   - Giuseppe Vietri, Borja Balle, Akshay Krishnamurthy, Zhiwei Steven Wu. *ICML 2020*.
+ - **Safe Reinforcement Learning in Constrained Markov Decision Processes.** [[pdf](http://proceedings.mlr.press/v119/wachi20a.html)]
+   - Akifumi Wachi, Yanan Sui. *ICML 2020*.
+ - **ROMA: Multi-Agent Reinforcement Learning with Emergent Roles.** [[pdf](http://proceedings.mlr.press/v119/wang20f.html)]
+   - Tonghan Wang, Heng Dong, Victor R. Lesser, Chongjie Zhang. *ICML 2020*.
+ - **Enhanced POET: Open-ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions.** [[pdf](http://proceedings.mlr.press/v119/wang20l.html)]
+   - Rui Wang, Joel Lehman, Aditya Rawal, Jiale Zhi, Yulun Li, Jeffrey Clune, Kenneth O. Stanley. *ICML 2020*.
+ - **Breaking the Curse of Many Agents: Provable Mean Embedding Q-Iteration for Mean-Field Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/wang20z.html)]
+   - Lingxiao Wang, Zhuoran Yang, Zhaoran Wang. *ICML 2020*.
+ - **Model-free Reinforcement Learning in Infinite-horizon Average-reward Markov Decision Processes.** [[pdf](http://proceedings.mlr.press/v119/wei20c.html)]
+   - Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain. *ICML 2020*.
+ - **Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control.** [[pdf](http://proceedings.mlr.press/v119/xu20h.html)]
+   - Jie Xu, Yunsheng Tian, Pingchuan Ma, Daniela Rus, Shinjiro Sueda, Wojciech Matusik. *ICML 2020*.
+ - **Q-value Path Decomposition for Deep Multiagent Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/yang20d.html)]
+   - Yaodong Yang, Jianye Hao, Guangyong Chen, Hongyao Tang, Yingfeng Chen, Yujing Hu, Changjie Fan, Zhongyu Wei. *ICML 2020*.
+ - **Reinforcement Learning in Feature Space: Matrix Bandit, Kernels, and Regret Bound.** [[pdf](http://proceedings.mlr.press/v119/yang20h.html)]
+   - Lin Yang, Mengdi Wang. *ICML 2020*.
+ - **Data Valuation using Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/yoon20a.html)]
+   - Jinsung Yoon, Sercan Ömer Arik, Tomas Pfister. *ICML 2020*.
+ - **Designing Optimal Dynamic Treatment Regimes: A Causal Reinforcement Learning Approach.** [[pdf](http://proceedings.mlr.press/v119/zhang20a.html)]
+   - Junzhe Zhang. *ICML 2020*.
+ - **Cautious Adaptation For Reinforcement Learning in Safety-Critical Settings.** [[pdf](http://proceedings.mlr.press/v119/zhang20e.html)]
+   - Jesse Zhang, Brian Cheung, Chelsea Finn, Sergey Levine, Dinesh Jayaraman. *ICML 2020*.
+ - **Adaptive Reward-Poisoning Attacks against Reinforcement Learning.** [[pdf](http://proceedings.mlr.press/v119/zhang20u.html)]
+   - Xuezhou Zhang, Yuzhe Ma, Adish Singla, Xiaojin Zhu. *ICML 2020*.
+
 
 ## International Conference on Robotics and Automation
 
