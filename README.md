@@ -506,7 +506,143 @@ For any questions, feel free to contact me 📮.
 
 ## International Conference on Robotics and Automation
 
+ - **Deep Merging: Vehicle Merging Controller Based on Deep Reinforcement Learning with Embedding Network.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197559)]
+   - Ippei Nishitani, Hao Yang, Rui Guo, Shalini Keshavamurthy, Kentaro Oguchi. *ICRA 2020*.
+ - **Reinforcement Learning for Adaptive Illumination with X-rays.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196614)]
+   - Jean-Raymond Betterton, Daniel Ratner, Samuel Webb, Mykel J. Kochenderfer. *ICRA 2020*.
+ - **Learning Generalizable Locomotion Skills with Hierarchical Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196642)]
+   - Tianyu Li, Nathan O. Lambert, Roberto Calandra, Franziska Meier, Akshara Rai. *ICRA 2020*.
+ - **Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197209)]
+   - Ruihua Han, Shengduo Chen, Qi Hao. *ICRA 2020*.
+ - **Knowledge-Guided Reinforcement Learning Control for Robotic Lower Limb Prosthesis.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196749)]
+   - Xiang Gao, Jennie Si, Yue Wen, Minhan Li, He Helen Huang. *ICRA 2020*.
+ - **Feedback Linearization for Uncertain Systems via Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197158)]
+   - Tyler Westenbroek, David Fridovich-Keil, Eric Mazumdar, Shreyas Arora, Valmik Prabhu, S. Shankar Sastry, Claire J. Tomlin. *ICRA 2020*.
+ - **Reinforcement Learning Based Manipulation Skill Transferring for Robot-assisted Minimally Invasive Surgery.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196588)]
+   - Hang Su, Yingbai Hu, Zhijun Li, Alois C. Knoll, Giancarlo Ferrigno, Elena De Momi. *ICRA 2020*.
+ - **Fine-Grained Driving Behavior Prediction via Context-Aware Multi-Task Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197126)]
+   - Kentaro Nishi, Masamichi Shimosaka. *ICRA 2020*.
+ - **GA3C Reinforcement Learning for Surgical Steerable Catheter Path Planning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196954)]
+   - Alice Segato, Luca Sestini, Antonella Castellano, Elena De Momi. *ICRA 2020*.
+ - **Grasp for Stacking via Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197508)]
+   - Junhao Zhang, Wei Zhang, Ran Song, Lin Ma, Yibin Li. *ICRA 2020*.
+ - **Meta Reinforcement Learning for Sim-to-real Domain Adaptation.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196540)]
+   - Karol Arndt, Murtaza Hazara, Ali Ghadirzadeh, Ville Kyrki. *ICRA 2020*.
+ - **DeepRacer: Autonomous Racing Platform for Experimentation with Sim2Real Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197465)]
+   - Bharathan Balaji, Sunil Mallya, Sahika Genc, Saurabh Gupta, Leo Dirac, Vineet Khare, Gourav Roy, Tao Sun, Yunzhe Tao, Brian Townsend, Eddie Calleja, Sunil Muralidhara, Dhanasekar Karuppasamy. *ICRA 2020*.
+ - **Imitative Reinforcement Learning Fusing Vision and Pure Pursuit for Self-driving.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197027)]
+   - Mingxing Peng, Zhihao Gong, Chen Sun, Long Chen, Dongpu Cao. *ICRA 2020*.
+ - **Fast Adaptation of Deep Reinforcement Learning-Based Navigation Skills to Human Preference.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197159)]
+   - Jinyoung Choi, Christopher R. Dance, Jung-Eun Kim, Kyungsik Park, Jaehun Han, Joonho Seo, Minsu Kim. *ICRA 2020*.
+ - **A Model-Based Reinforcement Learning and Correction Framework for Process Control of Robotic Wire Arc Additive Manufacturing.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197222)]
+   - Audelia Gumarus Dharmawan, Yi Xiong, Shaohui Foong, Gim Song Soh. *ICRA 2020*.
+ - **Towards Practical Multi-Object Manipulation using Relational Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197468)]
+   - Richard Li, Allan Jabri, Trevor Darrell, Pulkit Agrawal. *ICRA 2020*.
+ - **Dynamic Interaction-Aware Scene Understanding for Reinforcement Learning in Autonomous Driving.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197086)]
+   - Maria Hügle, Gabriel Kalweit, Moritz Werling, Joschka Boedecker. *ICRA 2020*.
+ - **Dynamic Cloth Manipulation with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196659)]
+   - Rishabh Jangir, Guillem Alenyà, Carme Torras. *ICRA 2020*.
+ - **Towards Safe Human-Robot Collaboration Using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196924)]
+   - Mohamed El-Shamouty, Xinyang Wu, Shanqi Yang, Marcel Albus, Marco F. Huber. *ICRA 2020*.
+ - **Local Policy Optimization for Trajectory-Centric Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197058)]
+   - Patrik Kolaric, Devesh K. Jha, Arvind U. Raghunathan, Frank L. Lewis, Mouhacine Benosman, Diego Romeres, Daniel Nikovski. *ICRA 2020*.
+ - **Driving in Dense Traffic with Model-Free Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197132)]
+   - Dhruv Mauria Saxena, Sangjae Bae, Alireza Nakhaei, Kikuo Fujimura, Maxim Likhachev. *ICRA 2020*.
+ - **Analyzing the Suitability of Cost Functions for Explaining and Imitating Human Driving Behavior based on Inverse Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196795)]
+   - Maximilian Naumann, Liting Sun, Wei Zhan, Masayoshi Tomizuka. *ICRA 2020*.
+ - **Grasping Unknown Objects by Coupling Deep Reinforcement Learning, Generative Adversarial Networks, and Visual Servoing.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197196)]
+   - Ole-Magnus Pedersen, Ekrem Misimi, François Chaumette. *ICRA 2020*.
+ - **Simulation-Based Reinforcement Learning for Real-World Autonomous Driving.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196730)]
+   - Blazej Osinski, Adam Jakubowski, Pawel Ziecina, Piotr Milos, Christopher Galias, Silviu Homoceanu, Henryk Michalewski. *ICRA 2020*.
+ - **Robust Model Predictive Shielding for Safe Reinforcement Learning with Stochastic Dynamics.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196867)]
+   - Shuo Li, Osbert Bastani. *ICRA 2020*.
+ - **Learn-to-Recover: Retrofitting UAVs with Reinforcement Learning-Assisted Flight Control Under Cyber-Physical Attacks.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196611)]
+   - Fan Fei, Zhan Tu, Dongyan Xu, Xinyan Deng. *ICRA 2020*.
+ - **On Simple Reactive Neural Networks for Behaviour-Based Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197262)]
+   - Ameya Pore, Gerardo Aragon-Camarasa. *ICRA 2020*.
+ - **Interactive Reinforcement Learning with Inaccurate Feedback.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197219)]
+   - Taylor A. Kessler Faulkner, Elaine Schaertl Short, Andrea Lockerd Thomaz. *ICRA 2020*.
+ - **C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting based on Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196948)]
+   - Taewoo Kim, Joo-Haeng Lee. *ICRA 2020*.
+ - **Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196674)]
+   - Xiaojie Gao, Yueming Jin, Qi Dou, Pheng-Ann Heng. *ICRA 2020*.
+ - **Deep Imitative Reinforcement Learning for Temporal Logic Robot Motion Planning with Noisy Semantic Observations.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197297)]
+   - Qitong Gao, Miroslav Pajic, Michael M. Zavlanos. *ICRA 2020*.
+ - **Hybrid Zero Dynamics Inspired Feedback Control Policy Design for 3D Bipedal Locomotion using Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197175)]
+   - Guillermo A. Castillo, Bowen Weng, Wei Zhang, Ayonga Hereid. *ICRA 2020*.
+ - **Data-Driven Reinforcement Learning for Walking Assistance Control of a Lower Limb Exoskeleton with Hemiplegic Patients.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197229)]
+   - Zhinan Peng, Rui Luo, Rui Huang, Jiangping Hu, Kecheng Shi, Hong Cheng, Bijoy Kumar Ghosh. *ICRA 2020*.
+ - **Control Synthesis from Linear Temporal Logic Specifications using Model-Free Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196796)]
+   - Alper Kamil Bozkurt, Yu Wang, Michael M. Zavlanos, Miroslav Pajic. *ICRA 2020*.
+ - **Dynamic Actor-Advisor Programming for Scalable Safe Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197200)]
+   - Lingwei Zhu, Yunduan Cui, Takamitsu Matsubara. *ICRA 2020*.
+ - **Discrete Deep Reinforcement Learning for Mapless Navigation.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9196739)]
+   - Enrico Marchesini, Alessandro Farinelli. *ICRA 2020*.
+ - **Robust Model-free Reinforcement Learning with Multi-objective Bayesian Optimization.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197000)]
+   - Matteo Turchetta, Andreas Krause, Sebastian Trimpe. *ICRA 2020*.
+ - **Evaluating Adaptation Performance of Hierarchical Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1109/ICRA40945.2020.9197052)]
+   - Neale Van Stolen, Seung Hyun Kim, Huy T. Tran, Girish Chowdhary. *ICRA 2020*.
+
 ## International Joint Conference on Artificial Intelligence
+
+ - **A Deep Reinforcement Learning Approach to Concurrent Bilateral Negotiation.** [[pdf](https://doi.org/10.24963/ijcai.2020/42)]
+   - Pallavi Bagga, Nicola Paoletti, Bedour Alrayes, Kostas Stathis. *IJCAI 2020*.
+ - **Model-Free Real-Time Autonomous Energy Management for a Residential Multi-Carrier Energy System: A Deep Reinforcement Learning Approach.** [[pdf](https://doi.org/10.24963/ijcai.2020/48)]
+   - Yujian Ye, Dawei Qiu, Jonathan Ward, Marcin Abram. *IJCAI 2020*.
+ - **Rebalancing Expanding EV Sharing Systems with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/186)]
+   - Man Luo, Wenzhe Zhang, Tianyou Song, Kun Li, Hongming Zhu, Bowen Du, Hongkai Wen. *IJCAI 2020*.
+ - **Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning.** [[pdf](https://doi.org/10.24963/ijcai.2020/267)]
+   - Guojia Wan, Shirui Pan, Chen Gong, Chuan Zhou, Gholamreza Haffari. *IJCAI 2020*.
+ - **Reinforcement Learning with Dynamic Boltzmann Softmax Updates.** [[pdf](https://doi.org/10.24963/ijcai.2020/276)]
+   - Ling Pan, Qingpeng Cai, Qi Meng, Wei Chen, Longbo Huang. *IJCAI 2020*.
+ - **Potential Driven Reinforcement Learning for Hard Exploration Tasks.** [[pdf](https://doi.org/10.24963/ijcai.2020/290)]
+   - Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing. *IJCAI 2020*.
+ - **Solving Hard AI Planning Instances Using Curriculum-Driven Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/304)]
+   - Dieqiao Feng, Carla P. Gomes, Bart Selman. *IJCAI 2020*.
+ - **KoGuN: Accelerating Deep Reinforcement Learning via Integrating Human Suboptimal Knowledge.** [[pdf](https://doi.org/10.24963/ijcai.2020/317)]
+   - Peng Zhang, Jianye Hao, Weixun Wang, Hongyao Tang, Yi Ma, Yihai Duan, Yan Zheng. *IJCAI 2020*.
+ - **Balancing Individual Preferences and Shared Objectives in Multiagent Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/347)]
+   - Ishan Durugkar, Elad Liebman, Peter Stone. *IJCAI 2020*.
+ - **Self-Attentional Credit Assignment for Transfer in Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/368)]
+   - Johan Ferret, Raphaël Marinier, Matthieu Geist, Olivier Pietquin. *IJCAI 2020*.
+ - **I4R: Promoting Deep Reinforcement Learning by the Indicator for Expressive Representations.** [[pdf](https://doi.org/10.24963/ijcai.2020/370)]
+   - Xufang Luo, Qi Meng, Di He, Wei Chen, Yunhong Wang. *IJCAI 2020*.
+ - **Reinforcement Learning Framework for Deep Brain Stimulation Study.** [[pdf](https://doi.org/10.24963/ijcai.2020/394)]
+   - Dmitrii Krylov, Remi Tachet des Combes, Romain Laroche, Michael Rosenblum, Dmitry V. Dylov. *IJCAI 2020*.
+ - **Constrained Policy Improvement for Efficient Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/396)]
+   - Elad Sarafian, Aviv Tamar, Sarit Kraus. *IJCAI 2020*.
+ - **Independent Skill Transfer for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/401)]
+   - Qiangxing Tian, Guanchu Wang, Jinxin Liu, Donglin Wang, Yachen Kang. *IJCAI 2020*.
+ - **Efficient Deep Reinforcement Learning via Adaptive Policy Transfer.** [[pdf](https://doi.org/10.24963/ijcai.2020/428)]
+   - Tianpei Yang, Jianye Hao, Zhaopeng Meng, Zongzhang Zhang, Yujing Hu, Yingfeng Chen, Changjie Fan, Weixun Wang, Wulong Liu, Zhaodong Wang, Jiajie Peng. *IJCAI 2020*.
+ - **MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics.** [[pdf](https://doi.org/10.24963/ijcai.2020/430)]
+   - Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya. *IJCAI 2020*.
+ - **I²HRL: Interactive Influence-based Hierarchical Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/433)]
+   - Rundong Wang, Runsheng Yu, Bo An, Zinovi Rabinovich. *IJCAI 2020*.
+ - **Exploring Parameter Space with Structured Noise for Meta-Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/436)]
+   - Hui Xu, Chong Zhang, Jiaxing Wang, Deqiang Ouyang, Yu Zheng, Jie Shao. *IJCAI 2020*.
+ - **DeepWeave: Accelerating Job Completion Time with Deep Reinforcement Learning-based Coflow Scheduling.** [[pdf](https://doi.org/10.24963/ijcai.2020/458)]
+   - Penghao Sun, Zehua Guo, Junchao Wang, Junfei Li, Julong Lan, Yuxiang Hu. *IJCAI 2020*.
+ - **Semi-Markov Reinforcement Learning for Stochastic Resource Collection.** [[pdf](https://doi.org/10.24963/ijcai.2020/463)]
+   - Sebastian Schmoll, Matthias Schubert. *IJCAI 2020*.
+ - **Inverse Reinforcement Learning for Team Sports: Valuing Actions and Players.** [[pdf](https://doi.org/10.24963/ijcai.2020/464)]
+   - Yudong Luo, Oliver Schulte, Pascal Poupart. *IJCAI 2020*.
+ - **Generating Behavior-Diverse Game AIs with Evolutionary Multi-Objective Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/466)]
+   - Ruimin Shen, Yan Zheng, Jianye Hao, Zhaopeng Meng, Yingfeng Chen, Changjie Fan, Yang Liu. *IJCAI 2020*.
+ - **A Two-level Reinforcement Learning Algorithm for Ambiguous Mean-variance Portfolio Selection Problem.** [[pdf](https://doi.org/10.24963/ijcai.2020/624)]
+   - Xin Huang, Duan Li. *IJCAI 2020*.
+ - **Robust Market Making via Adversarial Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/633)]
+   - Thomas Spooner, Rahul Savani. *IJCAI 2020*.
+ - **Hierarchical Reinforcement Learning for Pedagogical Policy Induction (Extended Abstract).** [[pdf](https://doi.org/10.24963/ijcai.2020/647)]
+   - Guojing Zhou, Hamoon Azizsoltani, Markel Sanz Ausin, Tiffany Barnes, Min Chi. *IJCAI 2020*.
+ - **On Overfitting and Asymptotic Bias in Batch Reinforcement Learning with Partial Observability (Extended Abstract).** [[pdf](https://doi.org/10.24963/ijcai.2020/706)]
+   - Vincent François-Lavet, Guillaume Rabusseau, Joelle Pineau, Damien Ernst, Raphael Fonteneau. *IJCAI 2020*.
+ - **Towards High-Level Intrinsic Exploration in Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/733)]
+   - Nicolas Bougie, Ryutaro Ichise. *IJCAI 2020*.
+ - **Generalized Representation Learning Methods for Deep Reinforcement Learning.** [[pdf](https://doi.org/10.24963/ijcai.2020/748)]
+   - Hanhua Zhu. *IJCAI 2020*.
+ - **RLCard: A Platform for Reinforcement Learning in Card Games.** [[pdf](https://doi.org/10.24963/ijcai.2020/764)]
+   - Daochen Zha, Kwei-Herng Lai, Songyi Huang, Yuanpu Cao, Keerthana Reddy, Juan Vargas, Alex Nguyen, Ruzhe Wei, Junyu Guo, Xia Hu. *IJCAI 2020*.
 
 ## Annual Conference on Neural Information Processing Systems
 
