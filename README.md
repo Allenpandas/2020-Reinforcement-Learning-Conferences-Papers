@@ -59,6 +59,134 @@ For any questions, feel free to contact me 📮.
 
 ## AAAI Conference on Artificial Intelligence
 
+ - **The Unreasonable Effectiveness of Inverse Reinforcement Learning in Advancing Cancer Research.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5380)]
+   - John Kalantari, Heidi Nelson, Nicholas Chia. *AAAI 2021*.
+ - **Weak Supervision for Fake News Detection via Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5389)]
+   - Yaqing Wang, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, Jing Gao. *AAAI 2021*.
+ - **RL-Duet: Online Music Accompaniment Generation Using Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5413)]
+   - Nan Jiang, Sheng Jin, Zhiyao Duan, Changshui Zhang. *AAAI 2021*.
+ - **MRI Reconstruction with Interpretable Pixel-Wise Operations Using Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5423)]
+   - Wentian Li, Xidong Feng, Haotian An, Xiang Yao Ng, Yu-Jin Zhang. *AAAI 2021*.
+ - **Generalizable Resource Allocation in Stream Processing via Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5431)]
+   - Xiang Ni, Jing Li, Mo Yu, Wang Zhou, Kun-Lung Wu. *AAAI 2021*.
+ - **Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5442)]
+   - Liang Tong, Aron Laszka, Chao Yan, Ning Zhang, Yevgeniy Vorobeychik. *AAAI 2021*.
+ - **Actor Critic Deep Reinforcement Learning for Neural Malware Control.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5449)]
+   - Yu Wang, Jack W. Stokes, Mady Marinescu. *AAAI 2021*.
+ - **MetaLight: Value-Based Meta-Reinforcement Learning for Traffic Signal Control.** [[pdf](https://doi.org/10.1609/aaai.v34i01.5467)]
+   - Xinshi Zang, Huaxiu Yao, Guanjie Zheng, Nan Xu, Kai Xu, Zhenhui Li. *AAAI 2021*.
+ - **Transfer Reinforcement Learning Using Output-Gated Working Memory.** [[pdf](https://doi.org/10.1609/aaai.v34i02.5488)]
+   - Arthur Williams, Joshua Phillips. *AAAI 2021*.
+ - **Deep Reinforcement Learning for General Game Playing.** [[pdf](https://doi.org/10.1609/aaai.v34i02.5533)]
+   - Adrian Goldwaser, Michael Thielscher. *AAAI 2021*.
+ - **Model and Reinforcement Learning for Markov Games with Risk Preferences.** [[pdf](https://doi.org/10.1609/aaai.v34i02.5574)]
+   - Wenjie Huang, Pham Viet Hai, William Benjamin Haskell. *AAAI 2021*.
+ - **Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach.** [[pdf](https://doi.org/10.1609/aaai.v34i02.5587)]
+   - Yang Liu, Qi Liu, Hongke Zhao, Zhen Pan, Chuanren Liu. *AAAI 2021*.
+ - **Solving Online Threat Screening Games using Constrained Action Space Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i02.5599)]
+   - Sanket Shah, Arunesh Sinha, Pradeep Varakantham, Andrew Perrault, Milind Tambe. *AAAI 2021*.
+ - **Explainable Reinforcement Learning through a Causal Lens.** [[pdf](https://doi.org/10.1609/aaai.v34i03.5631)]
+   - Prashan Madumal, Tim Miller, Liz Sonenberg, Frank Vetere. *AAAI 2021*.
+ - **BAR - A Reinforcement Learning Agent for Bounding-Box Automated Refinement.** [[pdf](https://doi.org/10.1609/aaai.v34i03.5639)]
+   - Morgane Ayle, Jimmy Tekli, Julia El Zini, Boulos El Asmar, Mariette Awad. *AAAI 2021*.
+ - **Exploratory Combinatorial Optimization with Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5723)]
+   - Thomas D. Barrett, William R. Clements, Jakob N. Foerster, A. I. Lvovsky. *AAAI 2021*.
+ - **Proximal Distilled Evolutionary Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5728)]
+   - Cristian Bodnar, Ben Day, Pietro Lió. *AAAI 2021*.
+ - **Reinforcement Learning When All Actions Are Not Always Available.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5740)]
+   - Yash Chandak, Georgios Theocharous, Blossom Metevier, Philip S. Thomas. *AAAI 2021*.
+ - **Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5744)]
+   - Chacha Chen, Hua Wei, Nan Xu, Guanjie Zheng, Ming Yang, Yuanhao Xiong, Kai Xu, Zhenhui Li. *AAAI 2021*.
+ - **A Tale of Two-Timescale Reinforcement Learning with the Tightest Finite-Time Bound.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5779)]
+   - Gal Dalal, Balázs Szörényi, Gugan Thoppe. *AAAI 2021*.
+ - **Fixed-Horizon Temporal Difference Methods for Stable Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5784)]
+   - Kristopher De Asis, Alan Chan, Silviu Pitis, Richard S. Sutton, Daniel Graves. *AAAI 2021*.
+ - **Induction of Subgoal Automata for Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5802)]
+   - Daniel Furelos-Blanco, Mark Law, Alessandra Russo, Krysia Broda, Anders Jonsson. *AAAI 2021*.
+ - **Reinforcement Learning with Non-Markovian Rewards.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5814)]
+   - Maor Gaon, Ronen I. Brafman. *AAAI 2021*.
+ - **Algorithmic Improvements for Deep Reinforcement Learning Applied to Interactive Fiction.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5857)]
+   - Vishal Jain, William Fedus, Hugo Larochelle, Doina Precup, Marc G. Bellemare. *AAAI 2021*.
+ - **Google Research Football: A Novel Reinforcement Learning Environment.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5878)]
+   - Karol Kurach, Anton Raichuk, Piotr Stanczyk, Michal Zajac, Olivier Bachem, Lasse Espeholt, Carlos Riquelme, Damien Vincent, Marcin Michalski, Olivier Bousquet, Sylvain Gelly. *AAAI 2021*.
+ - **Spatiotemporally Constrained Action Space Attacks on Deep Reinforcement Learning Agents.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5887)]
+   - Xian Yeow Lee, Sambit Ghadai, Kai Liang Tan, Chinmay Hegde, Soumik Sarkar. *AAAI 2021*.
+ - **Reinforcement Learning from Imperfect Demonstrations under Soft Expert Guidance.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5953)]
+   - Mingxuan Jing, Xiaojian Ma, Wenbing Huang, Fuchun Sun, Chao Yang, Bin Fang, Huaping Liu. *AAAI 2021*.
+ - **Metareasoning in Modular Software Systems: On-the-Fly Configuration Using Reinforcement Learning with Rich Contextual Representations.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5965)]
+   - Aditya Modi, Debadeepta Dey, Alekh Agarwal, Adith Swaminathan, Besmira Nushi, Sean Andrist, Eric Horvitz. *AAAI 2021*.
+ - **Scaling All-Goals Updates in Reinforcement Learning Using Convolutional Neural Networks.** [[pdf](https://doi.org/10.1609/aaai.v34i04.5983)]
+   - Fabio Pardo, Vitaly Levdik, Petar Kormushev. *AAAI 2021*.
+ - **Uncertainty-Aware Action Advising for Deep Reinforcement Learning Agents.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6036)]
+   - Felipe Leno da Silva, Pablo Hernandez-Leal, Bilal Kartal, Matthew E. Taylor. *AAAI 2021*.
+ - **Stealthy and Efficient Adversarial Attacks against Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6047)]
+   - Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, Kangjie Chen, Yang Liu. *AAAI 2021*.
+ - **Parameterized Indexed Value Function for Efficient Exploration in Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6055)]
+   - Tian Tan, Zhihan Xiong, Vikranth R. Dwaracherla. *AAAI 2021*.
+ - **Reinforcement Learning Based Meta-Path Discovery in Large-Scale Heterogeneous Information Networks.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6073)]
+   - Guojia Wan, Bo Du, Shirui Pan, Gholamreza Haffari. *AAAI 2021*.
+ - **Reinforcement Learning with Perturbed Rewards.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6086)]
+   - Jingkang Wang, Yang Liu, Bo Li. *AAAI 2021*.
+ - **Crowdfunding Dynamics Tracking: A Reinforcement Learning Approach.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6087)]
+   - Jun Wang, Hefu Zhang, Qi Liu, Zhen Pan, Hanqing Tao. *AAAI 2021*.
+ - **Mastering Complex Control in MOBA Games with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6144)]
+   - Deheng Ye, Zhao Liu, Mingfei Sun, Bei Shi, Peilin Zhao, Hao Wu, Hongsheng Yu, Shaojie Yang, Xipeng Wu, Qingwei Guo, Qiaobo Chen, Yinyuting Yin, Hao Zhang, Tengfei Shi, Liang Wang, Qiang Fu, Wei Yang, Lanxiao Huang. *AAAI 2021*.
+ - **Deep Model-Based Reinforcement Learning via Estimated Uncertainty and Conservative Policy Optimization.** [[pdf](https://doi.org/10.1609/aaai.v34i04.6177)]
+   - Qi Zhou, Houqiang Li, Jie Wang. *AAAI 2021*.
+ - **Partner Selection for the Emergence of Cooperation in Multi-Agent Systems Using Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6190)]
+   - Nicolas Anastassacos, Stephen Hailes, Mirco Musolesi. *AAAI 2021*.
+ - **Neighborhood Cognition Consistent Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6212)]
+   - Hangyu Mao, Wulong Liu, Jianye Hao, Jun Luo, Dong Li, Zhengchao Zhang, Jun Wang, Zhen Xiao. *AAAI 2021*.
+ - **SMIX(λ): Enhancing Centralized Value Functions for Cooperative Multi-Agent Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6223)]
+   - Chao Wen, Xinghu Yao, Yuhui Wang, Xiaoyang Tan. *AAAI 2021*.
+ - **LeDeepChef Deep Reinforcement Learning Agent for Families of Text-Based Games.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6228)]
+   - Leonard Adolphs, Thomas Hofmann. *AAAI 2021*.
+ - **Modelling Sentence Pairs via Reinforcement Learning: An Actor-Critic Approach to Learn the Irrelevant Words.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6230)]
+   - Mahtab Ahmed, Robert E. Mercer. *AAAI 2021*.
+ - **Sequence Generation with Optimal-Transport-Enhanced Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6249)]
+   - Liqun Chen, Ke Bai, Chenyang Tao, Yizhe Zhang, Guoyin Wang, Wenlin Wang, Ricardo Henao, Lawrence Carin. *AAAI 2021*.
+ - **Hierarchical Reinforcement Learning for Open-Domain Dialog.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6400)]
+   - Abdelrhman Saleh, Natasha Jaques, Asma Ghandeharioun, Judy Hanwen Shen, Rosalind W. Picard. *AAAI 2021*.
+ - **Copy or Rewrite: Hybrid Summarization with Hierarchical Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6470)]
+   - Liqiang Xiao, Lu Wang, Hao He, Yaohui Jin. *AAAI 2021*.
+ - **Joint Entity and Relation Extraction with a Hybrid Transformer and Reinforcement Learning Based Model.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6471)]
+   - Ya Xiao, Chengxiang Tan, Zhijie Fan, Qian Xu, Wenye Zhu. *AAAI 2021*.
+ - **Be Relevant, Non-Redundant, and Timely: Deep Reinforcement Learning for Real-Time Event Summarization.** [[pdf](https://doi.org/10.1609/aaai.v34i05.6483)]
+   - Min Yang, Chengming Li, Fei Sun, Zhou Zhao, Ying Shen, Chenglin Wu. *AAAI 2021*.
+ - **Reinforcement Learning of Risk-Constrained Policies in Markov Decision Processes.** [[pdf](https://doi.org/10.1609/aaai.v34i06.6531)]
+   - Tomás Brázdil, Krishnendu Chatterjee, Petr Novotný, Jiri Vahala. *AAAI 2021*.
+ - **Modular Robot Design Synthesis with Deep Reinforcement Learning.** [[pdf](https://doi.org/10.1609/aaai.v34i06.6611)]
+   - Julian Whitman, Raunaq M. Bhirangi, Matthew J. Travers, Howie Choset. *AAAI 2021*.
+ - **Deep Reinforcement Learning for Active Human Pose Estimation.** [[pdf](https://doi.org/10.1609/aaai.v34i07.6714)]
+   - Erik Gärtner, Aleksis Pirinen, Cristian Sminchisescu. *AAAI 2021*.
+ - **Tree-Structured Policy Based Progressive Reinforcement Learning for Temporally Language Grounding in Video.** [[pdf](https://doi.org/10.1609/aaai.v34i07.6924)]
+   - Jie Wu, Guanbin Li, Si Liu, Liang Lin. *AAAI 2021*.
+ - **Restraining Bolts for Reinforcement Learning Agents.** [[pdf](https://doi.org/10.1609/aaai.v34i09.7114)]
+   - Giuseppe De Giacomo, Luca Iocchi, Marco Favorito, Fabio Patrizi. *AAAI 2021*.
+ - **Explainable Agency in Reinforcement Learning Agents.** [[pdf](https://doi.org/10.1609/aaai.v34i10.7134)]
+   - Prashan Madumal. *AAAI 2021*.
+ - **A Reinforcement Learning Approach to Strategic Belief Revelation with Social Influence.** [[pdf](https://doi.org/10.1609/aaai.v34i10.7139)]
+   - Patrick Shepherd, Judy Goldsmith. *AAAI 2021*.
+ - **Multi-Agent Pattern Formation with Deep Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7161)]
+   - Elhadji Amadou Oury Diallo, Toshiharu Sugawara. *AAAI 2021*.
+ - **Multi-View Deep Attention Network for Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7177)]
+   - Yueyue Hu, Shiliang Sun, Xin Xu, Jing Zhao. *AAAI 2021*.
+ - **Determining the Possibility of Transfer Learning in Deep Reinforcement Learning Using Grad-CAM (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7188)]
+   - Ho-Taek Joo, Kyung-Joong Kim. *AAAI 2021*.
+ - **Selecting Portfolios Directly Using Recurrent Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7201)]
+   - Lin Li. *AAAI 2021*.
+ - **Gifting in Multi-Agent Reinforcement Learning (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7208)]
+   - Andrei Lupu, Doina Precup. *AAAI 2021*.
+ - **ERLP: Ensembles of Reinforcement Learning Policies (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7225)]
+   - Rohan Saphal, Balaraman Ravindran, Dheevatsa Mudigere, Sasikanth Avancha, Bharat Kaul. *AAAI 2021*.
+ - **Providing Uncertainty-Based Advice for Deep Reinforcement Learning Agents (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7229)]
+   - Felipe Leno da Silva, Pablo Hernandez-Leal, Bilal Kartal, Matthew E. Taylor. *AAAI 2021*.
+ - **Optimal Exploration Algorithm of Multi-Agent Reinforcement Learning Methods (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7247)]
+   - Qisheng Wang, Qichao Wang, Xiao Li. *AAAI 2021*.
+ - **Multi-Agent/Robot Deep Reinforcement Learning with Macro-Actions (Student Abstract).** [[pdf](https://doi.org/10.1609/aaai.v34i10.7255)]
+   - Yuchen Xiao, Joshua Hoffman, Tian Xia, Christopher Amato. *AAAI 2021*.
+
+
 ## International Conference on Autonomous Agents and Multiagent Systems
 
  - **Unsupervised Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398766)]
