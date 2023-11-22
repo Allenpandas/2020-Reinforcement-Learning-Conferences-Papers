@@ -61,6 +61,108 @@ For any questions, feel free to contact me 📮.
 
 ## International Conference on Autonomous Agents and Multiagent Systems
 
+ - **Unsupervised Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398766)]
+   - Sergey Levine. *AAMAS 2021*.
+ - **Multi Type Mean Field Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398813)]
+   - Sriram Ganapathi Subramanian, Pascal Poupart, Matthew E. Taylor, Nidhi Hegde. *AAMAS 2021*.
+ - **Improving Performance in Reinforcement Learning by Breaking Generalization in Neural Networks.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398816)]
+   - Sina Ghiassian, Banafsheh Rafiee, Yat Long Lo, Adam White. *AAMAS 2021*.
+ - **Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Dense and Sparse Reward Environments.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398819)]
+   - Vinicius G. Goecks, Gregory M. Gremillion, Vernon J. Lawhern, John Valasek, Nicholas R. Waytowich. *AAMAS 2021*.
+ - **Cautious Reinforcement Learning with Logical Constraints.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398821)]
+   - Mohammadhosein Hasanbeig, Alessandro Abate, Daniel Kroening. *AAMAS 2021*.
+ - **Inducing Cooperation through Reward Reshaping based on Peer Evaluations in Deep Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398825)]
+   - David Earl Hostallero, Daewoo Kim, Sangwoo Moon, Kyunghwan Son, Wan Ju Kang, Yung Yi. *AAMAS 2021*.
+ - **Snooping Attacks on Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398829)]
+   - Matthew Inkawhich, Yiran Chen, Hai Helen Li. *AAMAS 2021*.
+ - **A Story of Two Streams: Reinforcement Learning Models from Human Behavior and Neuropsychiatry.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398850)]
+   - Baihan Lin, Guillermo A. Cecchi, Djallel Bouneffouf, Jenna M. Reinen, Irina Rish. *AAMAS 2021*.
+ - **Off-Policy Deep Reinforcement Learning with Analogous Disentangled Exploration.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398851)]
+   - Anji Liu, Yitao Liang, Guy Van den Broeck. *AAMAS 2021*.
+ - **Gifting in Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398855)]
+   - Andrei Lupu, Doina Precup. *AAMAS 2021*.
+ - **Likelihood Quantile Networks for Coordinating Multi-Agent Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398856)]
+   - Xueguang Lyu, Christopher Amato. *AAMAS 2021*.
+ - **Feudal Multi-Agent Deep Reinforcement Learning for Traffic Signal Control.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398858)]
+   - Jinming Ma, Feng Wu. *AAMAS 2021*.
+ - **Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398863)]
+   - Kevin R. McKee, Ian Gemp, Brian McWilliams, Edgar A. Duéñez-Guzmán, Edward Hughes, Joel Z. Leibo. *AAMAS 2021*.
+ - **Analyzing Reinforcement Learning Benchmarks with Random Weight Guessing.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398875)]
+   - Declan Oller, Tobias Glasmachers, Giuseppe Cuccu. *AAMAS 2021*.
+ - **Yesterday's Reward is Today's Punishment: Contrast Effects in Human Feedback to Reinforcement Learning Agents.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398888)]
+   - Divya Ramesh, Anthony Z. Liu, Andres J. Echeverria, Jean Y. Song, Nicholas R. Waytowich, Walter S. Lasecki. *AAMAS 2021*.
+ - **Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398907)]
+   - Rui Silva, Miguel Vasco, Francisco S. Melo, Ana Paiva, Manuela Veloso. *AAMAS 2021*.
+ - **Hierarchical Multiagent Reinforcement Learning for Maritime Traffic Management.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398909)]
+   - Arambam James Singh, Akshat Kumar, Hoong Chuin Lau. *AAMAS 2021*.
+ - **Strategyproof Reinforcement Learning for Online Resource Allocation.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398911)]
+   - Sebastian Stein, Mateusz Ochal, Ioana-Adriana Moisoiu, Enrico H. Gerding, Raghu K. Ganti, Ting He, Tom La Porta. *AAMAS 2021*.
+ - **Can Agents Learn by Analogy?: An Inferable Model for PAC Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398915)]
+   - Yanchao Sun, Furong Huang. *AAMAS 2021*.
+ - **Learning Context-aware Task Reasoning for Efficient Meta Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398927)]
+   - Haozhe Wang, Jiale Zhou, Xuming He. *AAMAS 2021*.
+ - **A Performance-Based Start State Curriculum Framework for Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398934)]
+   - Jan Wöhlke, Felix Schmitt, Herke van Hoof. *AAMAS 2021*.
+ - **Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398941)]
+   - Jiachen Yang, Igor Borovikov, Hongyuan Zha. *AAMAS 2021*.
+ - **Deep Residual Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398946)]
+   - Shangtong Zhang, Wendelin Boehmer, Shimon Whiteson. *AAMAS 2021*.
+ - **Competitive and Cooperative Heterogeneous Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398951)]
+   - Han Zheng, Jing Jiang, Pengfei Wei, Guodong Long, Chengqi Zhang. *AAMAS 2021*.
+ - **Leveraging Communication Topologies Between Learning Agents in Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398966)]
+   - Dhaval Adjodah, Dan Calacci, Abhimanyu Dubey, Anirudh Goyal, P. M. Krafft, Esteban Moro, Alex Pentland. *AAMAS 2021*.
+ - **Evolving Meta-Level Reasoning with Reinforcement Learning and A* for Coordinated Multi-Agent Path-planning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398968)]
+   - Mona Alshehri, Napoleon H. Reyes, Andre L. C. Barczak. *AAMAS 2021*.
+ - **Learning Complementary Representations of the Past using Auxiliary Tasks in Partially Observable Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398974)]
+   - Andrea Baisero, Christopher Amato. *AAMAS 2021*.
+ - **Reinforcement Learning Dynamics in the Infinite Memory Limit.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398976)]
+   - Wolfram Barfuss. *AAMAS 2021*.
+ - **A New Framework for Multi-Agent Reinforcement Learning - Centralized Training and Exploration with Decentralized Execution via Policy Distillation.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398987)]
+   - Gang Chen. *AAMAS 2021*.
+ - **Social Structure Emergence: A Multi-agent Reinforcement Learning Framework for Relationship Building.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398989)]
+   - Yang Chen, Jiamou Liu, He Zhao, Hongyi Su. *AAMAS 2021*.
+ - **Distributed Reinforcement Learning for Cooperative Multi-Robot Object Manipulation.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398997)]
+   - Guohui Ding, Joewie J. Koh, Kelly Merckaert, Bram Vanderborght, Marco M. Nicotra, Christoffer Heckman, Alessandro Roncone, Lijun Chen. *AAMAS 2021*.
+ - **Decomposed Deep Reinforcement Learning for Robotic Control.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3398998)]
+   - Yinzhao Dong, Chao Yu, Paul Weng, Ahmed Maustafa, Hui Cheng, Hongwei Ge. *AAMAS 2021*.
+ - **Cluster-Based Social Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399004)]
+   - Mahak Goindani, Jennifer Neville. *AAMAS 2021*.
+ - **Multi-agent Adversarial Inverse Reinforcement Learning with Latent Variables.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399005)]
+   - Nate Gruver, Jiaming Song, Mykel J. Kochenderfer, Stefano Ermon. *AAMAS 2021*.
+ - **Networked Multi-Agent Reinforcement Learning with Emergent Communication.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399006)]
+   - Shubham Gupta, Rishi Hazra, Ambedkar Dukkipati. *AAMAS 2021*.
+ - **Mastering Basketball With Deep Reinforcement Learning: An Integrated Curriculum Training Approach.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399011)]
+   - Hangtian Jia, Chunxu Ren, Yujing Hu, Yingfeng Chen, Tangjie Lv, Changjie Fan, Hongyao Tang, Jianye Hao. *AAMAS 2021*.
+ - **Deep Reinforcement Learning for Market Making.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399018)]
+   - Pankaj Kumar. *AAMAS 2021*.
+ - **Genetic Deep Reinforcement Learning for Mapless Navigation.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399027)]
+   - Enrico Marchesini, Alessandro Farinelli. *AAMAS 2021*.
+ - **Multi-Vehicle Mixed Reality Reinforcement Learning for Autonomous Multi-Lane Driving.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399030)]
+   - Rupert Mitchell, Jenny Fletcher, Jacopo Panerati, Amanda Prorok. *AAMAS 2021*.
+ - **Mini-batch Bayesian Inverse Reinforcement Learning for Multiple Dynamics.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399037)]
+   - Yusuke Nakata, Sachiyo Arai. *AAMAS 2021*.
+ - **Vulcano: Operational Fire Suppression Management Using Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399041)]
+   - Cristobal Pais. *AAMAS 2021*.
+ - **Hierarchical Reinforcement Learning with Integrated Discovery of Salient Subgoals.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399042)]
+   - Shubham Pateria, Budhitama Subagdja, Ah-Hwee Tan. *AAMAS 2021*.
+ - **Robust Market Making via Adversarial Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399059)]
+   - Thomas Spooner, Rahul Savani. *AAMAS 2021*.
+ - **Efficient Deep Reinforcement Learning through Policy Transfer.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399072)]
+   - Tianpei Yang, Jianye Hao, Zhaopeng Meng, Zongzhang Zhang, Yujing Hu, Yingfeng Chen, Changjie Fan, Weixun Wang, Zhaodong Wang, Jiajie Peng. *AAMAS 2021*.
+ - **Learning to Cooperate: Application of Deep Reinforcement Learning for Online AGV Path Finding.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399080)]
+   - Yi Zhang, Yu Qian, Yichen Yao, Haoyuan Hu, Yinghui Xu. *AAMAS 2021*.
+ - **Opponent Modelling for Reinforcement Learning in Multi-Objective Normal Form Games.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399081)]
+   - Yijie Zhang, Roxana Radulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé. *AAMAS 2021*.
+ - **Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399082)]
+   - Zhi Zhang, Jiachen Yang, Hongyuan Zha. *AAMAS 2021*.
+ - **Hierarchical and Non-Hierarchical Multi-Agent Interactions Based on Unity Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399087)]
+   - Zehong Cao, Kaichiu Wong, Quan Bai, Chin-Teng Lin. *AAMAS 2021*.
+ - **A Very Condensed Survey and Critique of Multiagent Deep Reinforcement Learning.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399105)]
+   - Pablo Hernandez-Leal, Bilal Kartal, Matthew E. Taylor. *AAMAS 2021*.
+ - **Reinforcement Learning Algorithms for Autonomous Adaptive Agents.** [[pdf](https://dl.acm.org/doi/10.5555/3398761.3399125)]
+   - Sindhu Padakandla. *AAMAS 2021*.
+
+
 ## International Conference on Learning Representations
 
  - **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation.** [[pdf](https://openreview.net/forum?id=HygnDhEtvr)]
